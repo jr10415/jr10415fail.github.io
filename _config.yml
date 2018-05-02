@@ -9,7 +9,7 @@
 title: WOrking
 
 description: > # this means to ignore newlines until "baseurl:"
- Hello first attempt
+ Hello this is working partially right now im figuring out all the files
 baseurl: "" # the subpath of your site, e.g. /blog
 
 
