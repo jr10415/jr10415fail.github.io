@@ -1,5 +1,8 @@
 ---
-layout:post
+ layout: post
+ title:  "Welcome to Jekyll!"
+ date:   2018-05-01 14:23:45 +0000
+ categories: jekyll update
 ---
 hi mr brice this is my first area to modify i am still finding the code zones
 
