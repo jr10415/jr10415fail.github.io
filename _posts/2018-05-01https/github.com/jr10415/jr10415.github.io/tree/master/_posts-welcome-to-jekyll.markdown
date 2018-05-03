@@ -1,4 +1,5 @@
 ---
+layout:post
 ---
 hi mr brice this is my first area to modify i am still finding the code zones
 
