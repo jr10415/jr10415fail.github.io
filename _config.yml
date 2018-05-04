@@ -10,7 +10,7 @@ title: Working
 
 description: > # this means to ignore newlines until "baseurl:"
  Hello this is working partially right now im figuring out all the files
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://jr10415.github.io/" # the subpath of your site, e.g. /blog
 
 
 # Build settings
